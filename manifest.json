@@ -1,0 +1,24 @@
+{
+  "nickname" : "Kion",
+  "author" : "Benjamin Collins",
+  "email" : "kion@dashgl.com",
+  "language" : "c",
+  "window_library" : "gtk",
+  "graphics_library" : "opengl 3.0",
+  "title" : "GTK Astroids",
+  "repository" : "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial",
+  "card-image" : "https://repository-images.githubusercontent.com/109832862/9c88f18f-05fa-46a9-b857-1c6bc39cfe23",
+  "support" : {
+    "liberapay" : "https://en.liberapay.com/DashGLProject/",
+    "patron" : "https://www.patreon.com/dashkion",
+    "ko-fi" : "https://ko-fi.com/dashgl0937"
+  },
+  "social" : {
+    "mastodon" : "https://linuxrocks.online/@kion",
+    "twitter" : "https://twitter.com/kion_dgl",
+    "reddit" : "https://www.reddit.com/user/kion_dgl"
+  },
+  "lessons" : [
+
+  ]
+}
