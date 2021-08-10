@@ -19,6 +19,131 @@
     "reddit" : "https://www.reddit.com/user/kion_dgl"
   },
   "lessons" : [
-
+    {
+      "index" : 0,
+      "title" : "Introduction",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 1,
+      "title" : "Open a Window",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 2,
+      "title" : "Draw a Triangle",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 3,
+      "title" : "Shader Program",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 4,
+      "title" : "Orthographic Coordinates",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 5,
+      "title" : "Draw Player Sprite",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 6,
+      "title" : "Turn Left and Right",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 7,
+      "title" : "Move Player Sprite",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 8,
+      "title" : "Player Acceleration",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 9,
+      "title" : "Player Position",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 10,
+      "title" : "Draw Edge Sprites",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 11,
+      "title" : "Shoot Bullets",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 12,
+      "title" : "Fragment Shader",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 13,
+      "title" : "Draw Astroid",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 14,
+      "title" : "Astroid Size",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 15,
+      "title" : "Shoot Astroid",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 16,
+      "title" : "Split Astroids",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
+    {
+      "index" : 17,
+      "title" : "Gameover Screen",
+      "readme" : "",
+      "source" :  ",
+      "featured-image" : ""
+    },
   ]
 }
