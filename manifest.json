@@ -23,126 +23,126 @@
       "index" : 0,
       "title" : "Introduction",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/README.md",
-      "source" :  "",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial",
       "featured-image" : ""
     },
     {
       "index" : 1,
       "title" : "Open a Window",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/01_Open_a_Window/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/01_Open_a_Window",
       "featured-image" : ""
     },
     {
       "index" : 2,
       "title" : "Draw a Triangle",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/02_Draw_a_Triangle/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/02_Draw_a_Triangle",
       "featured-image" : ""
     },
     {
       "index" : 3,
       "title" : "Shader Program",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/03_Shader_Program/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/03_Shader_Program",
       "featured-image" : ""
     },
     {
       "index" : 4,
       "title" : "Orthographic Coordinates",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/04_Orthographic_Coordinates/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/04_Orthographic_Coordinates",
       "featured-image" : ""
     },
     {
       "index" : 5,
       "title" : "Draw Player Sprite",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/05_Draw_Player_Sprite/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/05_Draw_Player_Sprite",
       "featured-image" : ""
     },
     {
       "index" : 6,
       "title" : "Turn Left and Right",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/06_Turn_Left_and_Right/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/06_Turn_Left_and_Right",
       "featured-image" : ""
     },
     {
       "index" : 7,
       "title" : "Move Player Sprite",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/07_Move_Player_Sprite/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/07_Move_Player_Sprite",
       "featured-image" : ""
     },
     {
       "index" : 8,
       "title" : "Player Acceleration",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/08_Player_Acceleration/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/08_Player_Acceleration",
       "featured-image" : ""
     },
     {
       "index" : 9,
       "title" : "Player Position",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/09_Player_Position/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/09_Player_Position",
       "featured-image" : ""
     },
     {
       "index" : 10,
       "title" : "Draw Edge Sprites",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/10_Draw_Edge_Sprites/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/10_Draw_Edge_Sprites",
       "featured-image" : ""
     },
     {
       "index" : 11,
       "title" : "Shoot Bullets",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/11_Shoot_Bullets/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/11_Shoot_Bullets",
       "featured-image" : ""
     },
     {
       "index" : 12,
       "title" : "Fragment Shader",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/12_Fragment_Shader/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/12_Fragment_Shader",
       "featured-image" : ""
     },
     {
       "index" : 13,
       "title" : "Draw Astroid",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/13_Draw_Astroid/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/13_Draw_Astroid",
       "featured-image" : ""
     },
     {
       "index" : 14,
       "title" : "Astroid Size",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/14_Astroid_Size/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/14_Astroid_Size",
       "featured-image" : ""
     },
     {
       "index" : 15,
       "title" : "Shoot Astroid",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/15_Shoot_Astroid/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/15_Shoot_Astroid",
       "featured-image" : ""
     },
     {
       "index" : 16,
       "title" : "Split Astroids",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/16_Split_Astroids/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/16_Split_Astroids",
       "featured-image" : ""
     },
     {
       "index" : 17,
       "title" : "Gameover Screen",
       "readme" : "https://raw.githubusercontent.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/master/17_Gameover_Screen/README.md",
-      "source" :  ",
+      "source" :  "https://github.com/kion-dgl/DashGL-GTK-Astroids-Tutorial/tree/master/17_Gameover_Screen",
       "featured-image" : ""
     },
   ]
