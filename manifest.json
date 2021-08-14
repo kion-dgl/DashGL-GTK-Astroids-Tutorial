@@ -1,5 +1,5 @@
 {
-  "id" : 2,
+  "serial" : 2,
   "description" : "In this tutorial we make an Astroids clone using the GTK window libary and OpenGL 3.0. We use square sprites and introduce rotations to create a simple game.",
   "nickname" : "Kion",
   "author" : "Benjamin Collins",
